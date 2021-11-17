@@ -1,6 +1,8 @@
-# App1
+# Jogo de Tradução
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.1.
+
+Projeto de estudo do Framework Angular desenvolvido durante a Academia Angular ministrada pela Impacta.
 
 ## Development server
 
